@@ -10,8 +10,6 @@ import { auth } from './firebase';
 import Login from './components/Login/Login'
 import Spinner from 'react-spinkit';
 import Home from './components/Home/Home';
-import Help from './components/Help/Help';
-import Network from './components/Network/Network';
 
 function App() {
 
@@ -42,8 +40,6 @@ function App() {
                                 <Switch>
                                     <Route path="/" exact component={Chat} />
                                     <Route path="/home" exact component={Home} />
-                                    <Route path="/help" exact component={Help} />
-                                    <Route path="/network" exact component={Network} />
                                 </Switch>
                             </AppBody>
                         </>

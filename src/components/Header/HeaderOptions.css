@@ -1,0 +1,5 @@
+.headerOptionsAvatar {
+    object-fit: contain;
+    height: 30px !important;
+    width: 30px !important;
+}
