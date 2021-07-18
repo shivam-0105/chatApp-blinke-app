@@ -2,6 +2,8 @@ About the project -
 It is a public chat app which requires you Google Login and later on you can create you own channel and chat with your friends/team members. 
 The front end is developed using ReactJS and the backend is supported by Firebase
 
+Host Link : https://blinke-app.web.app/
+
 Technologies Used - 
 1. React Redux
 2. Firebase
@@ -22,8 +24,6 @@ Chat Screen
 
 Loading Screen ( in case if any error or network issues appear )
 ![photo4](https://user-images.githubusercontent.com/70219870/126079231-e085eeb2-11c8-4fe2-b350-d370bbed9e2f.png)
-
-Host Link : https://blinke-app.web.app/
 
 I hope you enjoy the app
 
